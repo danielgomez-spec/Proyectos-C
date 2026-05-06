@@ -1,6 +1,7 @@
 #3. Genere 2 arreglos paralelos que representen las sucursales de una empresa y sus ventas.
 #  Existen 25 sucursales en la empresa. Presente el promedio de ventas, así como las sucursales
 #  con ventas mayores al promedio. 
+#Hecho por sebastian Gómez
 import time
 inicio = time.time()
 

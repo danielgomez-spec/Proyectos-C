@@ -1,4 +1,5 @@
 //Ingresar 10 valores por teclado. Presentar la suma y promedio
+//Hecho por sebastian Gómez
 #include <stdio.h>
 #include <time.h>
 int main(){

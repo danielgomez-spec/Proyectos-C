@@ -1,4 +1,5 @@
 // Generar 500 valores aleatorios entre 50 y 100. Presente cuantos valores pares y cuántos impares fueron generados
+//Hecho por sebastian Gómez
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>

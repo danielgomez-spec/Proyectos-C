@@ -1,4 +1,5 @@
 # Ingresar 10 valores por teclado. Presentar la suma y promedio
+#Hecho por sebastian Gómez
 import time
 inicio=time.time()
 suma=0

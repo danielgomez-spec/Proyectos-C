@@ -1,3 +1,4 @@
+# Hecho por sebastian Gómez
 import time
 start = time.perf_counter()
 a = 10
