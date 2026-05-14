@@ -65,3 +65,4 @@ conjugar_verbo(Verbo, Tiempo, Persona, Numero, Conjugacion) :-
     ;   Conjugacion = Verbo 
     ).
 
+ 
